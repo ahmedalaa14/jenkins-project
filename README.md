@@ -1,4 +1,4 @@
-# Jenkins CI/CD Learning Project
+# Jenkins CI/CD Learning Project.
 
 A comprehensive Jenkins CI/CD learning repository that demonstrates various deployment strategies and DevOps practices using a Flask web application. This project covers everything from basic Jenkins pipelines to advanced deployment patterns including Docker, Kubernetes, Lambda, and single-server deployments.
 
